@@ -1,0 +1,84 @@
+
+#telaLogin{
+    width: 31.25rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: solid black 0.438rem;
+    border-radius: 5%;
+}
+
+#imagemlogo{ 
+    padding: 6.25rem;
+    
+}
+
+#textologo{
+    padding-left: 25%;
+    padding-right: 25%;
+    font-weight: bold;
+
+}
+
+#fundo{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(11, 156, 197,0.5);
+}
+
+#imagemlogo2{
+    padding: 4.688rem;
+}
+
+#telainicial{
+    width: 31.25rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: solid black 0.438rem; 
+    background-color: rgb(148, 0, 211);
+}
+
+#textologo2{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size:xx-large
+}
+
+.btnopcao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.313rem;
+}
+
+.txtopcao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.313rem;
+    font-weight: bold;
+}
+
+#btnpais{
+    margin: 0.313rem;
+}
+
+#fundo2{
+    background-color: rgb(11, 156, 197);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    background-color: rgba(11, 156, 197,0.5);
+}
+
+
+
+
+
+
+
+
